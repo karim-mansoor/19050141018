@@ -1,0 +1,75 @@
+!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        
+        <title>Document</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td><a href="#mene"> Menu</a></td>
+                <td><a href="#music">Music</a></td>
+                <td><a href="#location">Location</a></td>
+
+            </tr>
+        </table>
+        <h1>JavaJam Coffee House</h1>
+        <p>We are a gourmet coffee shop that serves snacks, coffee, tea, and soft drinks. Visit us to check out our:</p>
+        <ul>
+            <li>Specialty Coffee and Tea</li>
+            <li>Bagls, Muffins, and Organic Snacks</li>
+            <li>Music and Poetry Readings</li>
+            <li>Open Mic Night</li>
+        </ul>
+        <h3><a id="menu">menu</a></h3>
+
+        <h4>favorite coffee</h4>
+        <dl>
+            <dt>Just Java</dt>
+            <dd><table>
+                <tr>
+                    <th>decaffeinated coffee</th>
+                </tr>
+                
+            </table><dd>
+                Endless Cup $2.00
+            </dd>
+            
+        </dl>
+        <dl>
+            <dt>Cafe au Lait</dt>
+            <dd>
+                <table>
+                    <tr>
+                        <th>steamed milk</th>
+                    </tr>
+                </table>
+            </dd>
+            
+
+        </dl>
+        <ul>
+            <li>Small $2.00</li>
+            <li>Medium $4.00</li>
+            <li>Large $6.00</li>
+        </ul>
+        <H3><a id="music">Music</a></H3>
+        <p>calm music</p>
+        <audio controls>
+            <source src="one-last-time.mp3" type="audio/mpeg">
+            
+        </audio>
+        <H3><a id="location">location</a></H3>
+        <p>JavaJam is located at 8544 University City Blvd Charlotte, NC 28213. See <a href="https://maps.google.com">Google maps</a> for directions</p>
+
+        <em>Copyright © JavaJam Coffee House</em>
+        <p>manager@javajam.com</p>
+        <p><a href="https://validator.w3.org/check?uri=referer">validate</a></p>
+
+        <img src="image.jpg" alt="image " width="500" height="600">
+
+        
+        
+    </body>
+</html>
